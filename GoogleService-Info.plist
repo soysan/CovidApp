@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1092726644542-scd1t8jd572cqtge531lupdvt3dnt2bk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1092726644542-scd1t8jd572cqtge531lupdvt3dnt2bk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDjFXg_x8LAXZxgGorVGkOpIZCEYrFRbCg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1092726644542</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.masa.fromBook</string>
+	<key>PROJECT_ID</key>
+	<string>covidapp-e16d6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>covidapp-e16d6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1092726644542:ios:924efc1888ed94934dd66f</string>
+</dict>
+</plist>

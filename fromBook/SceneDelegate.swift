@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  fromBook
-//
-//  Created by 山口雅之 on 2021/02/18.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
